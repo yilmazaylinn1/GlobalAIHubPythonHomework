@@ -1,0 +1,16 @@
+x = int(input("Please enter an integer x value: "))
+y = float(input("Please enter an integer x value: "))
+z = float(input("Please enter an integer x value: "))
+t = int(input("Please enter an integer x value: "))
+m = int(input("Please enter an integer x value: "))
+
+
+print("The x value is, " + format(x, ".2f") + " The y value is, " + format(y, ".2f") + " The z value is, " + format(z, ".2f") + " The t value is, " + format(t, ".2f") + " And the m value is " + format(m, ".2f")) 
+
+
+type(x)
+type(y)
+type(z)
+type(t)
+type(m)
+
