@@ -1,0 +1,2 @@
+# GlobalAIHubPythonHomework
+Aylin Yılmaz - Homework
